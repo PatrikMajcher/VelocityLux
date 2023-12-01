@@ -29,7 +29,7 @@ Ecodrive is a web-based car rental system that allows users to browse available 
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/Velocity.git
+   git clone https://github.com/PatrikMajcher/VelocityLux.git
    
 ## Usage
 
