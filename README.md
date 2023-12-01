@@ -1,6 +1,6 @@
 # VelocityLux Car Rental System
 
-Ecodrive is a web-based car rental system that allows users to browse available cars, make bookings, and manage their reservations. This project is built using PHP and MySQL.
+VelocityLux is a web-based car rental system that allows users to browse available cars, make bookings, and manage their reservations. This project is built using PHP and MySQL.
 
 ## Table of Contents
 
