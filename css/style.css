@@ -1,0 +1,79 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100vh;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.4rem;
+}
+
+/* CARD STYLING */
+
+.card2 {
+    border: none !important;
+}
+
+
+.card_img {
+    max-width: 50%;
+}
+
+.card-title > a {
+    color: black;
+}
+
+.car-list {
+    display: flex;
+    justify-content: center;
+}
+
+.car-list > a {
+    color: black;
+}
+
+
+/* NAVBAR STYLING */
+
+.navbar {
+    font-size: 1.5rem;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.nav-item > a {
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
+
+.nav-item > a:hover {
+    color: #D62828;
+}
+
+.text-muted:hover {
+    color: #D62828!important;
+}
+
+
+
+/* TRANSITION/TRANSFORM STYLES */
+
+
+.transformx{
+    transition: transform 0.5s ease;
+}
+
+.transformx:hover {
+    transform: scale(1.1);
+}
+
+
+/* Media Queries */
+
+@media (max-width: 768px) {
+   body {
+        font-size: 1rem;
+    }
+}
